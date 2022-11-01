@@ -1,1 +1,1 @@
-gsap.to(".header", {x: 500, y:400})
+gsap.to(".header", {x: 500, y: 400, duration: 6})
